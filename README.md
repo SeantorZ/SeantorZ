@@ -1,6 +1,6 @@
-![](https://miro.medium.com/max/800/0*hu75huDxGu8xHamr)
+![](https://i0.wp.com/thelowdown.momentum.asia/wp-content/uploads/2022/06/web3.gif?fit=728%2C380&ssl=1)
 <h1 align="center">Hi 👋, I'm Senator Zeal</h1>
-<h3 align="center">Front-End Web Dev ▴ UI Designer</h3>
+<h3 align="center">Front-End Web Dev ▴ UI Designer ▴ Web3 Enthusiast</h3>
 
 
 
