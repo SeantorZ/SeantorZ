@@ -1,4 +1,4 @@
-![]([https://pbs.twimg.com/profile_banners/1167412676412227584/1654461576/1500x500](https://miro.medium.com/max/800/0*hu75huDxGu8xHamr))
+![](https://miro.medium.com/max/800/0*hu75huDxGu8xHamr)
 <h1 align="center">Hi 👋, I'm Senator Zeal</h1>
 <h3 align="center">Front-End Web Dev ▴ UI Designer</h3>
 
