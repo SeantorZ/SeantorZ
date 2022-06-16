@@ -1,7 +1,7 @@
-![](https://pbs.twimg.com/profile_banners/1167412676412227584/1654461576/1500x500)
+![]([https://pbs.twimg.com/profile_banners/1167412676412227584/1654461576/1500x500](https://miro.medium.com/max/800/0*hu75huDxGu8xHamr))
 <h1 align="center">Hi 👋, I'm Senator Zeal</h1>
 <h3 align="center">Front-End Web Dev ▴ UI Designer</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.d26444622b5e8c4a4700d16803a7b992?rik=5ed4l%2bINe7PHMg&riu=http%3a%2f%2f24.media.tumblr.com%2f03c9505cfe9473d13619cd18a98d90e5%2ftumblr_n3xetmlDS41qav3uso1_500.gif&ehk=r5Ltrgqg6edfU7sn1kysPdm3Oqrc3YFeVw7nWsVOoRw%3d&risl=&pid=ImgRaw&r=0">
+
 
 <br></br>
 
