@@ -3,7 +3,6 @@
 <h3 align="center">Front-End Web Dev ▴ UI Designer</h3>
 
 
-<br></br>
 
 <p align="left"> <a href="https://twitter.com/senator_zeal" target="blank"><img src="https://img.shields.io/twitter/follow/senator_zeal?logo=twitter&style=for-the-badge" alt="senator_zeal" /></a> </p>
 
