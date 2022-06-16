@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Senator Zeal
+- #👋 Hi, I’m Senator Zeal
 - 👀 I’m interested in building decentralized applications
 - 🌱 I’m currently learning how to build responsive and amazing websites with HTML, CSS, Javascript and React.js
 - 📫 How to reach me senatorzeal@gmail.com
